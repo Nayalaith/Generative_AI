@@ -78,7 +78,7 @@ For testing:
 A separate testing notebook was created to evaluate the performance of the three models. This notebook is designed to:
 
 1. Load the testing dataset.
-2. Load the trained models: Auto-Encoder (AE), Variational Auto-Encoder (VAE), and Convolutional Neural Network (CNN).
+2. Load the trained models: Variational Auto-Encoder (VAE), and Convolutional Neural Network (CNN).
 3. Run the testing dataset through each model to obtain predictions.
 4. Present a selection of test examples along with insights into the model performances.
 
