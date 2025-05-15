@@ -75,7 +75,7 @@ You can find the trained models at the following drive link: [Trained Models](ht
 
 For testing:
 
-A separate testing notebook was created to evaluate the performance of the three models. This notebook is designed to:
+A separate testing notebook was created to evaluate the performance of the two models. This notebook is designed to:
 
 1. Load the testing dataset.
 2. Load the trained models: Variational Auto-Encoder (VAE), and Convolutional Neural Network (CNN).
